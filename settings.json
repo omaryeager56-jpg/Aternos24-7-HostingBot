@@ -9,7 +9,7 @@
     "ip": "HollowCraft111.aternos.me",
     "port": 34496,
     "version": "26.1.2",
-    "try-creative": false
+    "try-creative": true
   },
   "position": {
     "enabled": true,
